@@ -1,0 +1,27 @@
+{
+  "name": "react-glize",
+  "version": "21.9.1",
+  "description": "Glize library for React.",
+  "homepage": "https://github.com/Datamart/react-glize",
+  "repository": "github:Datamart/react-glize",
+  "license": "Apache-2.0",
+  "main": "./index.js",
+  "exports": "./index.js",
+  "bugs": {
+    "url": "https://github.com/Datamart/react-glize/issues"
+  },
+  "author": {
+    "name": "Valentin Podkamennyi",
+    "email": "valentin@dtm.io",
+    "url": "https://vpodk.com/"
+  },
+  "keywords": [
+    "glize",
+    "react"
+  ],
+  "dependencies": {
+    "glize": "latest",
+    "komito-analytics": "latest",
+    "react-hamburger-drawer": "latest"
+  }
+}
