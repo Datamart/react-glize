@@ -20,8 +20,8 @@
     "react"
   ],
   "dependencies": {
-    "glize": "latest",
-    "komito-analytics": "latest",
-    "react-hamburger-drawer": "latest"
+    "glize": "^21.9.15",
+    "komito-analytics": "^1.0.5",
+    "react-hamburger-drawer": "^21.9.5"
   }
 }
