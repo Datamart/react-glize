@@ -1,6 +1,6 @@
 {
   "name": "react-glize",
-  "version": "21.9.2",
+  "version": "22.2.18",
   "description": "Glize library for React.",
   "homepage": "https://github.com/Datamart/react-glize",
   "repository": "github:Datamart/react-glize",
@@ -20,6 +20,7 @@
     "react"
   ],
   "dependencies": {
+    "expirable-storage": "^1.0.0",
     "glize": "^21.9.15",
     "komito-analytics": "^1.0.5",
     "react-hamburger-drawer": "^21.9.5"
