@@ -1,6 +1,6 @@
 {
   "name": "react-glize",
-  "version": "22.2.18",
+  "version": "22.7.25",
   "description": "Glize library for React.",
   "homepage": "https://github.com/Datamart/react-glize",
   "repository": "github:Datamart/react-glize",
@@ -12,7 +12,7 @@
   },
   "author": {
     "name": "Valentin Podkamennyi",
-    "email": "valentin@dtm.io",
+    "email": "vpodk@users.noreply.github.com",
     "url": "https://vpodk.com/"
   },
   "keywords": [
@@ -21,8 +21,8 @@
   ],
   "dependencies": {
     "expirable-storage": "^1.0.0",
-    "glize": "^22.7.24",
+    "glize": "^22.7.25",
     "komito-analytics": "^1.0.5",
-    "react-hamburger-drawer": "^21.9.5"
+    "react-hamburger-drawer": "^21.11.19"
   }
 }
