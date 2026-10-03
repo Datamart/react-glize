@@ -21,8 +21,8 @@
   ],
   "dependencies": {
     "expirable-storage": "^1.0.0",
-    "glize": "^22.7.25",
-    "komito-analytics": "^1.0.5",
-    "react-hamburger-drawer": "^21.11.19"
+    "glize": "^22.7.26",
+    "komito-analytics": "^1.0.6",
+    "react-hamburger-drawer": "^21.11.28"
   }
 }
